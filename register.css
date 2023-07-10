@@ -1,0 +1,21 @@
+.container{
+    background-color: aquamarine;
+    margin:10px 450px;
+    padding:15px;
+    border-radius:20px;
+}
+
+label{
+    font-weight:bold;
+    display: block;
+    margin:20px;
+}
+input{
+    border-radius: 30px;
+}
+    body{
+        display: blick;text-align: center;
+    }
+    button{
+        margin: 30px;
+    }
